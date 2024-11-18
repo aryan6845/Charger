@@ -7,7 +7,7 @@ int main() {
 
     if (ftc=34)
     {
-        /* code */
+        bool dekho=false;
     }
     
     return 0;
