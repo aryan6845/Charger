@@ -8,6 +8,7 @@ int main() {
     if (ftc=34)
     {
         bool dekho=false;
+        int i=33;
     }
     
     return 0;
